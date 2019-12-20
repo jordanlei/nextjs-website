@@ -7,33 +7,33 @@ class ArtTraditional extends Component {
   render() {
     const imageItems = [
         {
-            src: require("/art/new-york.jpg"),
+            src: require("../public/static/art/new-york.jpg"),
             caption: <div><h4>New York</h4><br/><p>Oil on Canvas, 2013</p></div>,
             width: 8
         },
         {
-            src: require("/art/chicago.jpg"),
+            src: require("../public/static/art/chicago.jpg"),
             caption: <div><h4>Chicago</h4><br/><p>Acrylic on Canvas, 2013</p></div>,
             width: 4
             
         },
         {
-            src: require("/art/portland2.jpg"),
+            src: require("../public/static/art/portland2.jpg"),
             caption: <div><h4>Portland</h4><br/><p>Mixed Media, 2017</p></div>,
             width: 6
         },
         {
-            src: require("/art/sentinel.jpg"),
+            src: require("../public/static/art/sentinel.jpg"),
             caption: <div><h4>Sentinel</h4><br/><p>Oil on Canvas Board, 2014</p></div>,
             width: 6
         },
         {
-            src: require("/art/the-distance-between-us.jpg"),
+            src: require("../public/static/art/the-distance-between-us.jpg"),
             caption: <div><h4>The Distance Between Us</h4><br/><p>Acrylic on Canvas, 2019</p></div>,
             width: 6
         },
         {
-            src: require("/art/rose.jpg"),
+            src: require("../public/static/art/rose.jpg"),
             caption: <div><h4>Rose</h4><br/><p>Colored Pencil, 2015</p></div>,
             width: 6
         },

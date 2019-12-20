@@ -1,8 +1,10 @@
+import React, { Component } from 'react';
+import Dev from '../components/dev.js';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Index = () => (
-    <div style={{height: "500px", backgroundImage: "url(" + require("../public/static/logo-cmu.png") + ")"}}>
-
+    <div>
+      <Dev/>
     </div>
   );
   
