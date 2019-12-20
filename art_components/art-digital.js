@@ -7,39 +7,39 @@ class ArtDigital extends Component {
   render() {
     const imageItems = [
         {
-            src: require("../images/art/icarus.jpg"),
+            src: require("/art/icarus.jpg"),
             caption: <div><h4>Icarus</h4><br/><p>Digital, 2019</p></div>,
             width: 4
         },
         {
-            src: require("../images/art/blue.jpg"),
+            src: require("/art/blue.jpg"),
             caption: <div><h4>Blue</h4><br/><p>Digital, 2019</p></div>,
             width: 4
             
         },
         {
-            src: require("../images/art/byte-me.jpg"),
+            src: require("/art/byte-me.jpg"),
             caption: <div><h4>Byte Me</h4><br/><p>Digital, 2018</p></div>,
             width: 4
         },
         {
-            src: require("../images/art/weneedtotalk.jpg"),
+            src: require("/art/weneedtotalk.jpg"),
             caption: <div><h4>We Need to Talk</h4><br/><p>Digital, 2019</p></div>,
             width: 6
         },
         
         {
-            src: require("../images/art/astronaut.jpg"),
+            src: require("/art/astronaut.jpg"),
             caption: <div><h4>I Just Need Some Space</h4><br/><p>Digital, 2019</p></div>,
             width: 6
         },
         {
-            src: require("../images/art/hotpot.jpg"),
+            src: require("/art/hotpot.jpg"),
             caption: <div><h4>Hot Pot, Warm Company</h4><br/><p>Digital, 2018</p></div>,
             width: 6
         },
         {
-            src: require("../images/art/smallband.jpg"),
+            src: require("/art/smallband.jpg"),
             caption: <div><h4>A Small Band of Misfits</h4><br/><p>Digital, 2018</p></div>,
             width: 6
         },

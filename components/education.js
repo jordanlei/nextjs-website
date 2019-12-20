@@ -33,7 +33,7 @@ class Education extends Component {
             </p>
             </Col>
             <Col md={3}>
-              <img src={require('../images/logo-penn.png')} style={{display: "block", padding: "5%", width: "300px"}}alt="Logo Penn"/>
+              <img src={require('/logo-penn.png')} style={{display: "block", padding: "5%", width: "300px"}}alt="Logo Penn"/>
             </Col>
           </Row>
           <Row>
@@ -47,7 +47,7 @@ class Education extends Component {
             </p>
             </Col>
             <Col md={3}>
-              <img src={require('../images/logo-wv.png')} style={{display: "block", padding: "5%", width: "300px"}}alt="Logo WV"/>
+              <img src={require('/logo-wv.png')} style={{display: "block", padding: "5%", width: "300px"}}alt="Logo WV"/>
             </Col>
           </Row>
           </Col>

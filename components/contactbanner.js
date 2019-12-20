@@ -16,13 +16,13 @@ class ContactBanner extends Component {
             </h3>
             <Row style={{height: "150px"}}>
             <NavLink href="https://www.linkedin.com/in/jordan-lei-782890130/" target="_blank">
-            <img src={require('../images/logo-linkedin.png')} style={{display: "block", padding: "5%", height: "100px", width: "100px"}}alt="Logo WV"/>
+            <img src={require('/logo-linkedin.png')} style={{display: "block", padding: "5%", height: "100px", width: "100px"}}alt="Logo WV"/>
             </NavLink>
             <NavLink href="https://www.facebook.com/jordan.lei.77" target="_blank">
-              <img src={require('../images/logo-fb.png')} style={{display: "block", padding: "5%", height: "100px"}}alt="Logo WV"/>
+              <img src={require('/logo-fb.png')} style={{display: "block", padding: "5%", height: "100px"}}alt="Logo WV"/>
             </NavLink>
             <NavLink href="https://www.instagram.com/leijordanart/" target="_blank">
-            <img src={require('../images/logo-insta.png')} style={{display: "block", padding: "5%", height: "100px", width: "100px"}}alt="Logo WV"/>
+            <img src={require('/logo-insta.png')} style={{display: "block", padding: "5%", height: "100px", width: "100px"}}alt="Logo WV"/>
             </NavLink>
             </Row>
             

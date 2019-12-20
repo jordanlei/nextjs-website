@@ -1,7 +1,7 @@
 /* welcome page (left side) formatting*/
 .welcome-container{
     color: rgba(255, 255, 255, 0.9);
-    background-image: url(../images/byte-me-2.jpg);
+    background-image: url(../public/byte-me-2.jpg);
     /**background-image: linear-gradient(rgb(194, 202, 221), rgb(171, 178, 197), #8090B8);**/
     background-attachment: fixed;
     background-position: center;
@@ -40,21 +40,21 @@
     background-color: black;
 }
 #welcome .layer-1 {
-	background-image: url("../images/byteme-1.png");
+	background-image: url("../public/byteme-1.png");
 }
 #welcome .layer-2 {
-    background-image: url("../images/byteme-2.png");
+    background-image: url("../public/byteme-2.png");
 }
 #welcome .layer-3 {
-	background-image: url("../images/byteme-3.png");
+	background-image: url("../public/byteme-3.png");
 }
 #welcome .layer-4 {
-    background-image: url("../images/byteme-4.png");
+    background-image: url("../public/byteme-4.png");
 }
 
 #welcome-mobile {
 	display: none;
-	background: url("../images/byte-me-2.jpg")
+	background: url("../public/byte-me-2.jpg")
 		no-repeat center bottom / cover;
 	height: 320px;
 }
