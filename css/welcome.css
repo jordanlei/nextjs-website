@@ -15,7 +15,7 @@
     text-align: left;
     font-weight: lighter; 
     letter-spacing: 20px;
-    font-size: 100px;
+    font-size: 80px;
     color: rgba(255, 255, 255, 0.7);
 }
 
@@ -52,6 +52,11 @@
     background-image: url("../public/static/byteme-4.png");
 }
 
+#welcome .layer{
+    background-position: top right;
+    margin-top: -10%;
+}
+
 #welcome-mobile {
 	display: none;
 	background: url("../public/static/byte-me-2.jpg")
@@ -59,13 +64,5 @@
 	height: 320px;
 }
 
-@media only screen and (max-width: 768px) {
-	#welcome-component {
-		display: none;
-	}
-	#welcome-mobile {
-		display: block;
-	}
-}
 
 

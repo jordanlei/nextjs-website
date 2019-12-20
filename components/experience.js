@@ -28,7 +28,8 @@ class Experience extends Component {
             <br/><br/>
           </Col>
           <Col md={2}>
-          <img src={require('../public/static/logo-kordinglab.png')} style={{display: "block", padding: "5%", height: "12vw"}}alt="Logo WV"/>
+          <img src={require('../public/static/logo-kordinglab.png')} style={{display: "block", 
+           padding: "5%", height: "10vw", minHeight: "80px"}}alt="Logo WV"/>
           </Col>
           <Col md={2}></Col>
           <Col md={3}>
@@ -43,7 +44,8 @@ class Experience extends Component {
             <br/><br/>
           </Col>
           <Col md={2}>
-          <img src={require('../public/static/logo-penn.png')} style={{display: "block", padding: "5%", height: "12vw"}}alt="Logo WV"/>
+          <img src={require('../public/static/logo-penn.png')} style={{display: "block", 
+          padding: "5%", height: "10vw", minHeight: "80px"}}alt="Logo WV"/>
           </Col>
         </Row>
         <Row>
@@ -60,7 +62,8 @@ class Experience extends Component {
             <br/><br/>
           </Col>
           <Col md={2}>
-          <img src={require('../public/static/logo-unilever.png')} style={{display: "block", padding: "5%", height: "12vw"}}alt="Logo WV"/>
+          <img src={require('../public/static/logo-unilever.png')} style={{display: "block", 
+          padding: "5%", height: "10vw", minHeight: "80px"}}alt="Logo WV"/>
           </Col>
           <Col md={2}></Col>
           <Col md={3}>
@@ -76,7 +79,8 @@ class Experience extends Component {
             <br/><br/>
           </Col>
           <Col md={2}>
-          <img src={require('../public/static/logo-tovala.png')} style={{display: "block", padding: "5%", height: "12vw"}}alt="Logo WV"/>
+          <img src={require('../public/static/logo-tovala.png')} style={{display: "block", 
+          padding: "5%", height: "10vw", minHeight: "80px"}}alt="Logo WV"/>
           </Col>
         </Row>
         <Row>
@@ -93,7 +97,8 @@ class Experience extends Component {
             <br/><br/>
           </Col>
           <Col md={2}>
-          <img src={require('../public/static/logo-cni.png')} style={{display: "block", padding: "5%", height: "12vw"}}alt="Logo WV"/>
+          <img src={require('../public/static/logo-cni.png')} style={{display: "block", 
+          padding: "5%", height: "10vw", minHeight: "80px"}}alt="Logo WV"/>
           </Col>
           <Col md={2}></Col>
           <Col md={3}>
@@ -109,7 +114,8 @@ class Experience extends Component {
             <br/><br/>
           </Col>
           <Col md={2}>
-          <img src={require('../public/static/logo-cmu.png')} style={{display: "block", padding: "5%", height: "12vw"}}alt="Logo WV"/>
+          <img src={require('../public/static/logo-cmu.png')} style={{display: "block", 
+          padding: "5%", height: "10vw", minHeight: "80px"}}alt="Logo WV"/>
           </Col>
         </Row>
         </div>

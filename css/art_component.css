@@ -88,7 +88,7 @@ p {
     text-align: center;
     font-weight: lighter; 
     letter-spacing: 13px;
-    font-size: 50px;
+    font-size: 40px;
 	color: rgba(255, 255, 255, 0.7);
 	width: 26vw;
 	height: 20vh;
@@ -96,7 +96,7 @@ p {
 }
 
 .art-title a:hover{
-	font-size: 50px;
+	font-size: 40px;
 	font-weight: normal;
 	color: rgba(255, 255, 255, 0.9);
 }
@@ -108,14 +108,14 @@ p {
     text-align: center;
     font-weight: lighter; 
     letter-spacing: 13px;
-    font-size: 50px;
+    font-size: 40px;
 	color: rgba(255, 255, 255, 0.7);
 	width: 22vw;
 	word-wrap: break-word;
 }
 
 .blog-title a:hover{
-	font-size: 50px;
+	font-size: 40px;
 	font-weight: normal;
 	color: rgba(255, 255, 255, 0.9);
 }
