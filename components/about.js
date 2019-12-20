@@ -10,6 +10,7 @@ class About extends Component {
       <div className="dark-container" style={{paddingBottom: 2+"%"}}>            
         <div>
         <Row>
+          <div className= "banner">
           <Col md={3}>
           <Fade bottom duration={5000}>
             <h3>
@@ -33,6 +34,7 @@ class About extends Component {
             playing the guitar, or snuggling up with a good book. <br/>
             </p>
           </Col>
+          </div>
         </Row>
         </div>
       </div>

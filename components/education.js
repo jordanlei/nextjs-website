@@ -10,6 +10,7 @@ class Education extends Component {
       <div className="dark-container">            
         <div>
         <Row>
+          <div className= "banner">
           <Col md={3}>
             <Fade bottom duration={5000}>
               <h3>
@@ -22,7 +23,7 @@ class Education extends Component {
           <Col md={7}>
           <Row>
             <Col md={3} className= "mobile-only">
-              <img src={require('../public/static/logo-penn.png')} style={{display: "block", margin:"0 auto", width: "100px"}}alt="Logo Penn"/>
+              <img src={require('../public/static/logo-penn.png')} style={{display: "block", margin:"0 auto", width: "100px", paddingTop: "10%", paddingBottom: "5%"}}alt="Logo Penn"/>
             </Col>
             <Col md={9}>
             <p>
@@ -41,7 +42,7 @@ class Education extends Component {
           </Row>
           <Row>
           <Col md={3} className= "mobile-only">
-              <img src={require('../public/static/logo-wv.png')} style={{display: "block", margin:"0 auto", width: "100px"}}alt="Logo WV"/>
+              <img src={require('../public/static/logo-wv.png')} style={{display: "block", margin:"0 auto", width: "100px", paddingTop: "10%", paddingBottom: "5%"}}alt="Logo WV"/>
             </Col>
             <Col md={9}>
             <p>
@@ -57,6 +58,7 @@ class Education extends Component {
             </Col>
           </Row>
           </Col>
+          </div>
         </Row>
         </div>
       </div>
