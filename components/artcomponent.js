@@ -61,7 +61,7 @@ class ArtComponent extends Component {
           <div className= "mobile-only">
             <section id = "artwork">
             <div style= {{height: "125vh", position: "relative", margin: "0 auto"}}>
-              <div className = "art-title" style={{position: "absolute", top: "40vh", left: "25vw"}}>
+              <div className = "art-title" style={{position: "absolute", top: "50vh", left: "10vw"}}>
                 <div>
                   <Fade bottom duration= {5000}>
                         <NavLink href= "/art">VIEW MY PORTFOLIO</NavLink>
@@ -72,7 +72,7 @@ class ArtComponent extends Component {
             </section>  
             <section id= "blog">
               <div style= {{height: "105vh", position: "relative", margin: "0 auto"}}>
-                <div className = "art-title" style={{position: "absolute", top: "40vh", left: "25vw"}}>
+                <div className = "art-title" style={{position: "absolute", top: "40vh", left: "10vw"}}>
                   <div>
                   <Fade bottom duration= {5000}>
                         <NavLink href= "#welcome">VIEW MY BLOG</NavLink>
