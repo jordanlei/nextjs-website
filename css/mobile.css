@@ -1,0 +1,61 @@
+@media only screen and (max-width: 768px) {
+    /* */
+    .landing-container h1{
+      font-size: 40px;
+      letter-spacing: 10px;
+    }
+
+    .landing-container h3{
+        font-size: 22px; 
+    }
+
+    .landing-container h4{
+        font-size: 18px; 
+    }
+
+    .landing-container p{
+        font-size: 15px; 
+    }
+
+    .sidenav{
+      display: none;
+    }
+
+    .namecard{
+        padding-left: 5%;
+    }
+
+    #welcome .layer{
+        height: 100vh;
+        margin-top: 0%;
+        background-size: cover;
+    }
+
+    #art-component .layer{
+        margin-top: 0%;
+        background-size: cover;
+        background-position: top center; 
+    }
+
+    #art-component a{
+        font-size: 20px;
+        width: auto;
+    }
+
+    #art-component a.navlink{
+        width: 80vw;
+    }
+
+
+    .mobile-only{
+        display: block;
+    }
+
+    .web-only{
+        display: none;
+    }
+
+    .art-gallery{
+        background-position: center;
+    }
+  }

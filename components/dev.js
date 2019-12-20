@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import '../css/standard.css';
+import '../css/mobile.css';
 import Welcome from './welcome';
 import About from './about';
 import Menu from './menu';
@@ -29,9 +30,6 @@ class Dev extends Component {
         <section id = "contact">
           <ContactBanner/>
         </section>
-
-
-        
       </div>
       
     );

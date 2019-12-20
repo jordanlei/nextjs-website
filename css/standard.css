@@ -25,19 +25,19 @@ font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
   text-decoration: none;
   font-size: 20px;
   font-weight: lighter;
-  letter-spacing: 4px;
+  letter-spacing: 3px;
   color: rgba(255, 255, 255, 0.7);
   display: block;
 }
 
 .sidenav a:hover {
   text-decoration: none; 
-  font-size: 24px;
+  font-size: 22px;
   color: rgba(255, 255, 255, 0.9);
 }
 
 .sidenav a:active{
-  font-size: 24px;
+  font-size: 22px;
   color: rgba(255, 255, 255, 0.9);
 }
 
@@ -158,6 +158,10 @@ font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
 
 .hello{
   z-index: -1;
+}
+
+.mobile-only{
+  display: none;
 }
 
 

@@ -21,6 +21,9 @@ class Education extends Component {
           </Col>
           <Col md={7}>
           <Row>
+            <Col md={3} className= "mobile-only">
+              <img src={require('../public/static/logo-penn.png')} style={{display: "block", margin:"0 auto", width: "100px"}}alt="Logo Penn"/>
+            </Col>
             <Col md={9}>
             <p>
             <b>University of Pennsylvania</b> <br/>
@@ -32,11 +35,14 @@ class Education extends Component {
             <br/>
             </p>
             </Col>
-            <Col md={3}>
+            <Col md={3} className= "web-only">
               <img src={require('../public/static/logo-penn.png')} style={{display: "block", padding: "5%", width: "200px"}}alt="Logo Penn"/>
             </Col>
           </Row>
           <Row>
+          <Col md={3} className= "mobile-only">
+              <img src={require('../public/static/logo-wv.png')} style={{display: "block", margin:"0 auto", width: "100px"}}alt="Logo WV"/>
+            </Col>
             <Col md={9}>
             <p>
             <b>Westview High School</b> <br/>
@@ -46,7 +52,7 @@ class Education extends Component {
             National Merit Scholar Finalist, Presidential Scholar Semifinalist
             </p>
             </Col>
-            <Col md={3}>
+            <Col md={3} className= "web-only">
               <img src={require('../public/static/logo-wv.png')} style={{display: "block", padding: "5%", width: "200px"}}alt="Logo WV"/>
             </Col>
           </Row>

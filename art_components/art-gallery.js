@@ -55,9 +55,11 @@ class ArtGallery extends React.Component {
 
 
         return (
-            <Row>
-                {images}
-            </Row>
+            <div className = "art-gallery">
+                <Row>
+                    {images}
+                </Row>
+            </div>
         );
     }
 }
