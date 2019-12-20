@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '../css/standard.css';
-import '../css/mobile.css';
 import ArtWelcome from './welcome';
 import ArtMenu from './menu';
 import ArtAbout from './art-about';
