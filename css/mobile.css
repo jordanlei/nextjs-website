@@ -64,4 +64,8 @@
     .art-gallery{
         background-position: center;
     }
+
+    .carousel-caption{
+        display: none;
+    }
   }

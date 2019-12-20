@@ -30,7 +30,7 @@ class Education extends Component {
             <p>
             <b>University of Pennsylvania</b> <br/>
             <b>Jerome Fisher Program in Management and Technology</b> <br/>
-            GPA: 3.88,  Class of 2020 <br/>
+            GPA: 3.90,  Class of 2020 <br/>
             Bachelor of Science in Economics, Behavioral Economics, The Wharton School<br/>
             Bachelor of Science in Engineering, Computer Science, School of Engineering and Applied Sciences<br/>
             Dean's List 2016-17, 2017-18, 2018-19<br/>

@@ -37,6 +37,7 @@ class ArtGallery extends React.Component {
                 <div style= {{
                     backgroundImage: "url("+i.src+")", 
                     backgroundSize: "cover", 
+                    backgroundPosition: "center",
                     height: "50vh",
                     marginTop: "15px",
                     marginBottom: "15px",
