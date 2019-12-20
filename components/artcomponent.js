@@ -39,7 +39,7 @@ class ArtComponent extends Component {
             <div className = "art-title" style={{position: "absolute", top: "40vh", left: "37vw"}}>
               <div>
                 <Fade bottom duration= {5000}>
-                      <NavLink href= "#welcome">VIEW MY PORTFOLIO</NavLink>
+                      <NavLink href= "/art">VIEW MY PORTFOLIO</NavLink>
                 </Fade>
               </div>
             </div> 

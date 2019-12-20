@@ -30,7 +30,7 @@ class ArtMenu extends Component {
           <NavItem>
             <Link class= "navlink" activeClass="active" to="art-traditional" href= "" spy={true} smooth={true} duration= {800}> Traditional</Link>
           </NavItem>
-          <a href="/dev">Home</a>
+          <a href="/">Home</a>
         </Nav>
       </div>
     );

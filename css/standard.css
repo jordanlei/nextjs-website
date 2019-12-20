@@ -23,7 +23,7 @@ font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
 
 .sidenav a{
   text-decoration: none;
-  font-size: 23px;
+  font-size: 20px;
   font-weight: lighter;
   letter-spacing: 4px;
   color: rgba(255, 255, 255, 0.7);
@@ -32,12 +32,12 @@ font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
 
 .sidenav a:hover {
   text-decoration: none; 
-  font-size: 28px;
+  font-size: 24px;
   color: rgba(255, 255, 255, 0.9);
 }
 
 .sidenav a:active{
-  font-size: 30px;
+  font-size: 24px;
   color: rgba(255, 255, 255, 0.9);
 }
 
@@ -76,7 +76,7 @@ font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
 .landing-container h3{
 	text-transform: none;
 	font-weight: 100;
-  font-size: 35px;
+  font-size: 32px;
   letter-spacing: 1px;
 }
 

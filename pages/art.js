@@ -1,8 +1,11 @@
+import React, { Component } from 'react';
+import ArtHome from '../art_components/home.js';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Art() {
     return (
       <div>
-        <p>This is the art page</p>
+        <ArtHome/>
       </div>
     );
   }

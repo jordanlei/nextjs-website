@@ -70,19 +70,6 @@ p {
 	text-decoration: underline;
 }
 
-/* welcome page (left side) formatting*/
-.welcome-container{
-    color: rgba(255, 255, 255, 0.9);
-    background-image: url(../public/static/byte-me-2.jpg);
-    /**background-image: linear-gradient(rgb(194, 202, 221), rgb(171, 178, 197), #8090B8);**/
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 100vh;
-    position:relative;
-}
-
 
 .art-title a{
     text-align: center;

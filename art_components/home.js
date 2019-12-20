@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import '../css/standard.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import ArtWelcome from './welcome';
 import ArtMenu from './menu';
 import ArtAbout from './art-about';
