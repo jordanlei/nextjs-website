@@ -5,7 +5,8 @@ import Fade from 'react-reveal';
 class ContactBanner extends Component {
   
   render() {
-    return (          
+    return (      
+      <section id = "contact">    
         <div style={{height: "80vh", paddingLeft: "20%", paddingRight: "18%", color: "rgba(255, 255, 255, 0.7)"}}>
         <div style= {{height: "40vh"}}></div>
         <Row>
@@ -40,6 +41,7 @@ class ContactBanner extends Component {
           </Col>
         </Row>
         </div>
+      </section>
     );
   }
 }

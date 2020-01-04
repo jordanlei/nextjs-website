@@ -41,7 +41,7 @@ class Post_how_to_engage_with_art extends Component {
             </Parallax>
         </section>
         <div className= "blog-container">
-            <div className= "blog-post" style={{padding: "5%", backgroundColor: "rgba(0, 0, 0, 0.8)"}}>
+            <div className= "blog-post" style={{padding: "5%", backgroundColor: "rgba(0, 0, 0, 0.3)"}}>
                 <h3>
                     Two Blackboards and a Bucket
                 </h3>
@@ -254,8 +254,8 @@ class Post_how_to_engage_with_art extends Component {
                 </p>
                 <p>
                     There’s something undeniably special about that which we call art. It is inescapable, 
-                    yet at the same time such a confusing concept to grasp. But most art has its unifying 
-                    principles, through which it can be understood. If we analyze the context of the art, 
+                    yet at the same time such a confusing concept to grasp. But most pieces have unifying 
+                    principles through which they can be understood. If we analyze the context of the art, 
                     not only what it depicts or claims to depict, but also the historical, religious, 
                     scientific, and social movements of the time, we can get a better understanding of 
                     how and why these pieces came to be. If we think about artwork as an expression, a 

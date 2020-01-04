@@ -51,7 +51,7 @@ class ArtComponent extends Component {
                 <div className = "art-title" style={{position: "absolute", top: "40vh", left: "37vw"}}>
                   <div>
                   <Fade bottom duration= {5000}>
-                        <NavLink href= "#welcome">VIEW MY BLOG</NavLink>
+                        <NavLink href= "/blog">VIEW MY BLOG</NavLink>
                   </Fade>
                   </div>
                 </div> 
@@ -75,7 +75,7 @@ class ArtComponent extends Component {
                 <div className = "art-title" style={{position: "absolute", top: "40vh", left: "8vw"}}>
                   <div>
                   <Fade bottom duration= {5000}>
-                        <NavLink href= "#welcome">VIEW MY BLOG</NavLink>
+                        <NavLink href= "/blog">VIEW MY BLOG</NavLink>
                   </Fade>
                   </div>
                 </div> 

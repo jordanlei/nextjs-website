@@ -52,6 +52,10 @@
         width: 80vw;
     }
 
+    #contact{
+        padding-bottom: 20vh;
+    }
+
 
     .mobile-only{
         display: block;

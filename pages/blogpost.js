@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import Post_how_to_engage_with_art from '../blog_components/posts/post_how_to_engage_with_art';
+import Post_brotherhood from '../blog_components/posts/post_brotherhood';
 const BlogPost = props => (
     // <div className= "landing-container">
     //     <h3>Welcome, {props.content.id}</h3>
     // </div>
-    <Post_how_to_engage_with_art/>
+    <Post_brotherhood/>
   )
   
   BlogPost.getInitialProps = async function(context) {

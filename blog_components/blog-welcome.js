@@ -7,7 +7,7 @@ class BlogWelcome extends Component {
   render() {
     const items = {
       name : "blog-welcome",
-      background: "linear-gradient(rgba(0, 52, 141, 1), rgba(0, 0, 0, 1), rgba(171, 66, 0))",
+      background: "linear-gradient(rgba(0, 52, 141, 1), rgba(0, 0, 0, 1), rgba(171, 66, 0, 1))",
       backgrounddepth: "-0.3",
       layers: [ 
       {image: require("../public/static/blog/background-1.svg"), depth: "-0.90", name: "layer1"},
