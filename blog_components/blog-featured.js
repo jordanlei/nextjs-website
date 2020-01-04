@@ -30,7 +30,7 @@ class BlogFeatured extends Component {
                   <h4>
                     {featured.subtitle}
                   </h4>
-                  <p><i>Written by {featured.author} on {featured.date}</i></p>
+                  <p><i>Posted by {featured.author} on {featured.date}</i></p>
                 </a>
               </Fade>
             </div>

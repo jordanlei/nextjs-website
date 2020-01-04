@@ -20,7 +20,7 @@ class BlogPostList extends Component {
               <h4>{i.title}</h4>
               <div className="web-only">
                 <h5>{i.subtitle}</h5>
-                <p><i>Written by {i.author} on {i.date}</i></p>
+                <p><i>Posted by {i.author} on {i.date}</i></p>
               </div>
             </div>
           </a>
