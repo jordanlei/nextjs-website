@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{"7TUZ":function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/art",function(){return u("LdNO")}])},LdNO:function(n,t,u){"use strict";u.r(t),u.d(t,"default",(function(){return r}));var e=u("q1tI"),i=u.n(e).a.createElement;function r(){return i("div",null,i("p",null,"This is the art page"))}}},[["7TUZ",0,1]]]);
