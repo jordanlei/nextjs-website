@@ -6,6 +6,7 @@ const withImages = require('next-images')
 
 
 module.exports = withImages(withCSS(withSass({
+    assetPrefix: process.env.NODE_ENV === 'production' ? '/{nextjs-website}' : '',
     exportTrailingSlash: true,
     exportPathMap: function() {
       const paths = {
